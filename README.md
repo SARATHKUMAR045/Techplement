@@ -23,14 +23,26 @@ It allows users to take quizzes by topic or at random, add new quizzes, and view
 
 ---
 
-## 📂 Project Structure  
-```plaintext  
-src/main/java/com/techplement/quizgenerator  
-├── Main.java               // Entry point of the application  
-├── QuizManager.java        // Core logic for quiz management  
-├── Quiz.java               // Represents a quiz topic and its questions  
-├── Question.java           // Represents a single question with options  
-└── DefaultQuizData.java    // Provides preloaded sample quizzes
+## 📱 Connect with Me  
+[LinkedIn Profile](https://www.linkedin.com/in/sarathkumar-t/)
 
-📬 Contact
-Connect with me on LinkedIn to discuss the project, opportunities, or collaborations!
+
+## 📁 Project Structure
+
+```bash
+QuizGenerator/
+├── src/
+│   ├── com/
+│      └── sarathkumar/
+│          ├── Question.java         # Class for quiz questions and options
+│          ├── Quiz.java             # Class for quizzes and methods like addQuestions
+│          ├── QuizManager.java      # Main class for managing quiz operations
+│          └── DefaultQuizData.java  # Class for default quiz questions
+│   
+├── pom.xml                           # Project dependencies and configuration
+└── README.md                         # Project documentation
+
+
+
+
+
