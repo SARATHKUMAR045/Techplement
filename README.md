@@ -24,7 +24,7 @@ It allows users to take quizzes by topic or at random, add new quizzes, and view
 ---
 
 ## 📱 Connect with Me  
-[LinkedIn Profile](https://www.linkedin.com/in/sarathkumar-t/)
+[SarathKumarLinkedIn Profile](https://www.linkedin.com/in/sarathkumar-t/)
 
 
 ## 📁 Project Structure
@@ -41,8 +41,3 @@ QuizGenerator/
 │   
 ├── pom.xml                           # Project dependencies and configuration
 └── README.md                         # Project documentation
-
-
-
-
-
