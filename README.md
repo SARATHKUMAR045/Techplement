@@ -1,42 +1,28 @@
 # Quiz Generator Application - Techplement Internship Project
 
-#Features
-📝 Quiz Creation
-Add quizzes on multiple topics.
-Each quiz supports dynamic options and customizable questions.
+## Overview
+The **Quiz Generator Application** is a Java-based console application developed as part of my internship at **Techplement**. This project demonstrates core and advanced Java skills, including object-oriented programming, collections, and file handling. It allows users to take quizzes by topic or at random, add new quizzes, and view their scores with personalized feedback.
 
-🧠 Take a Quiz
-Select a quiz by topic.
-Take random quizzes spanning all topics.
-Real-time feedback for correct and incorrect answers.
+---
 
-📊 Results & Feedback
-View scores and a detailed winning ratio after completing the quiz.
-Receive encouraging feedback based on performance.
+## Features
+- **Topic-Wise Quiz**: Take quizzes based on specific topics.
+- **Random Quiz**: Answer randomly selected questions from all topics.
+- **Add Quiz**: Create new quizzes with questions, options, and correct answers.
+- **Feedback and Scoring**: Receive detailed feedback and scores after completing a quiz.
+- **Dynamic Topics**: Add and manage quizzes for multiple topics.
 
-🎲 Random Quiz
-Test your knowledge across a mix of topics with the random quiz feature.
+---
 
-# Technologies Used
-Language: Java
-Data Structures: HashMap, List, Arrays
-Tools: IntelliJ IDEA, Git
+## Tech Stack
+- **Language**: Java
+- **Tools**: IntelliJ IDEA (or any preferred IDE), Git
+- **Version Control**: GitHub
+- **Build Tool**: Maven
 
-# Project Structure
-QuizGenerator/  
-│  
-├── src/  
-│   ├── com.yourpackage/  
-│   │   ├── QuizManager.java        # Main application logic  
-│   │   ├── Quiz.java               # Handles quiz logic and data  
-│   │   ├── Question.java           # Represents individual questions  
-│   │   ├── DefaultQuizData.java    # Contains preloaded quizzes  
-│  
-├── README.md                       # Project documentation  
-└── pom.xml                         # Maven configuration
-
-# Author
-Sarathkumar
-
-LinkedIn: [Sarath Kumar](https://www.linkedin.com/in/sarathkumar-t/)
-GitHub: [SARATHKUMAR045](https://github.com/SARATHKUMAR045)
+- src/main/java/com/techplement/quizgenerator
+├── Main.java               // Entry point of the application
+├── QuizManager.java        // Core logic for quiz management
+├── Quiz.java               // Represents a quiz topic and its questions
+├── Question.java           // Represents a single question with options
+└── DefaultQuizData.java    // Provides preloaded sample quizzes
