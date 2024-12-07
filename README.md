@@ -30,4 +30,7 @@ src/main/java/com/techplement/quizgenerator
 ├── QuizManager.java        // Core logic for quiz management  
 ├── Quiz.java               // Represents a quiz topic and its questions  
 ├── Question.java           // Represents a single question with options  
-└── DefaultQuizData.java    // Provides preloaded sample quizzes  
+└── DefaultQuizData.java    // Provides preloaded sample quizzes
+
+📬 Contact
+Connect with me on LinkedIn to discuss the project, opportunities, or collaborations!
