@@ -23,10 +23,6 @@ It allows users to take quizzes by topic or at random, add new quizzes, and view
 
 ---
 
-## 📱 Connect with Me  
-[SarathKumarLinkedIn Profile](https://www.linkedin.com/in/sarathkumar-t/)
-
-
 ## 📁 Project Structure
 
 ```bash
