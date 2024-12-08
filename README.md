@@ -17,7 +17,7 @@ It allows users to take quizzes by topic or at random, add new quizzes, and view
 
 ## 🛠️ Tech Stack  
 - **Language**: Java  
-- **Tools**: IntelliJ IDEA (or any preferred IDE), Git  
+- **Tools**: IntelliJ IDEA, Git  
 - **Version Control**: GitHub  
 - **Build Tool**: Maven  
 
